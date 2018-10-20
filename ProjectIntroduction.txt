@@ -7,4 +7,4 @@ for taking some basic information. Also a person can paid balance online rather 
 1. Checking dctors schedule online.
 2. Emergency alerts about diseases and syptoms of diseases.
 3. Information about fid aid treatment.
-
+4. Diet plans.
