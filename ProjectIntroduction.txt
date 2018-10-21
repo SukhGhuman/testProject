@@ -1,13 +1,13 @@
-As i have already discussed in the presentaion session in class. I am going to be make an application for a hospital ,that would make the life of people reliable.
-In this appliction i am going to target people that usually come to that hospital. Basically this is a specific appliction for hospital working i.e for making online
-appointmemts with appointments with doctors , checking schedule of doctors. Aside this it will contain enough imformation to keep people heathy and aware of disease 
-symptoms.Therafter, i want this appliction easy to use for everyone by providing regional language support. Moreover, before starting the use of this applictaion a person
-must have to create an account by providing basic information like name, gender, age, gender and some info about blood group. It is going to be easy to handle
-daily ruotines for medical staff, because they get rid of long lines for appionments and for taking some basic information by patients. Also a person can paid due balance
-online rather to go to hospital. Following there are some highlghted features of my project,
+As I have already discussed in the presentation session in class, I am going to be make an application for a hospital ,that would make the life of public easier.
+This application would be for a specific hospital which would help people who mostly come there. With the use of this appliction people will able to book appointments
+with doctors online, checking schedule of doctors Online. Aside this it will contain enough information to keep people heathy and aware of diseases and their
+symptoms. Therafter, I want this appliction to be easy to use by the people by providing national and international languages support. Moreover, before using this app 
+a person must have to create an account by providing basic information like name, gender, age, residential address for security purposes. Also a person can paid due
+balance online rather than go to hospital. Following there are some highlghted features of my app;
 
-1. Checking dctors schedule online.
-2. Emergency alerts about diseases and syptoms of diseases.
-3. Information about fid aid treatment.
-4. Diet plans.
-5. Online payments.
+1. Checking doctors schedule online.
+2. Booking appiontments.
+3. Emergency alerts about diseases and their symptoms.
+4. Information about fid aid treatment.
+5. Diet plans.
+6. Online payments.
